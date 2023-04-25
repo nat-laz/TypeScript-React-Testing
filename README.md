@@ -1,1 +1,6 @@
-# Testing React TypeScript components all the way from render components, through components with state, asynchronous components, custom hooks, Redux and Zustand.
+# Testing React TypeScript:
+- Basic component testing 
+- Multiple element testing
+- Event handler testing
+- state hooks testing
+- async hooks 
